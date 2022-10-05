@@ -9,3 +9,9 @@
 - Place: Rawalpindi, Pakistan
 - Bio: GDSC Lead
 - GitHub: [abdulmoizquddus](https://github.com/abdulmoizquddus)
+
+#### Name: [Ismail khan](https://github.com/ZotecOps)
+
+- Place: Islamabad, Pakistan
+- Bio: GDSC Marketing  Lead
+- GitHub: [abdulmoizquddus](https://github.com/ZotecOps)
